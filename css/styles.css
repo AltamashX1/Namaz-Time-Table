@@ -1,0 +1,46 @@
+body{
+    background-image: url("../images/bg-img-3.jpg");
+    margin: 0;
+}
+
+#footer{
+    background-color: #b48f03;
+    margin: 3px 0 0;
+    display: inline-block;
+    padding-top: 8px;
+    width: 100%;
+    text-align: center;
+    color: #003e19;
+}
+img{
+    width: 30px;
+}
+#day {
+    font-family: 'Chakra Petch', sans-serif;
+
+    /* font-family: 'Dancing Script', cursive; */
+
+    /* font-family: 'Lobster', cursive; */
+
+    /* font-family: 'Permanent Marker', cursive; */
+
+    /* font-family: 'Space Mono', monospace; */
+
+    font-size : 10rem;
+    text-shadow: 7px 7px #046805;
+    color: #d3ae05;
+    margin: 38px auto 180px;
+}
+
+
+table,td {
+    border: 2px dashed #046805;
+    margin: auto;
+    font-size: 1.8rem;
+    color: #d3ae05;
+    font-family: 'Space Mono', monospace;
+}
+th,td {
+    text-align: center;
+    padding: 10px;
+}
